@@ -5,12 +5,6 @@
     "ghcr.io/devcontainers/features/php:1": {
       "version": "latest",
       "installComposer": true
-    },
-    "ghcr.io/devcontainers-contrib/features/mysql-homebrew:1": {
-      "version": "latest"
-    },
-    "ghcr.io/meaningful-ooo/devcontainer-features/homebrew:2": {
-      "shallowClone": false
     }
   }
 }
